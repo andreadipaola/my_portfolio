@@ -1,3 +1,26 @@
-nav {
-  background-color:orange;
+body {
+  margin: 0;
+  box-sizing: border-box;
 }
+ .logo {
+   background-color: orange;
+   border: 1px solid black;
+   width: 20%;
+   position: relative;
+   left: 0;
+   top: 0;
+ }
+
+ .container {
+   background-color: blue;
+   border: 1px solid black;
+   position: relative;
+ }
+
+ .navbar {
+   background-color: green;
+   border: 1px solid black;
+   position: relative;
+   top: 0;
+   right: 0;
+ }
